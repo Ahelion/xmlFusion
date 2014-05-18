@@ -1,0 +1,19 @@
+<main>
+<stats>
+    <pair>
+    <key>User</key><value>adelush</value>
+    <key>File</key><value>~/home/source.xml</value>
+    <key>Date</key><value>17-05-2014</value>
+    </pair>
+</stats>
+<details>
+    <nrOfTests>3</nrOfTests>
+    <isSystem>0</isSystem>
+</details>
+<test>
+</test>
+<test>
+</test>
+<test>
+</test>
+</main>

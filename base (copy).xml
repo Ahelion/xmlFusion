@@ -1,0 +1,21 @@
+<main>
+<stats>
+    <pair>
+    <key>User</key><value>mirciu</value>
+    <key>File</key><value>~/home/base.xml</value>
+    <key>Date</key><value>16-05-2014</value>
+    </pair>
+</stats>
+<details>
+    <nrOfTests>4</nrOfTests>
+    <isSystem>0</isSystem>
+</details>
+<test>
+</test>
+<test>
+</test>
+<test>
+</test>
+<test>
+</test>
+</main>
